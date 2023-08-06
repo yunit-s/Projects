@@ -12,7 +12,7 @@
 	<artifactId>mycalendar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mycalendar</name>
-	<description>Demo project for Spring Boot</description>
+	<description>web calendar project</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
